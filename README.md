@@ -16,7 +16,7 @@
 5. secrets.json 을 git rm 으로 삭제
 6. .gitignore 변경
 
-![img](https://imgur.com/cslBOow)
+![Imgur](https://i.imgur.com/p9mBIzM.png)
 
 
 
@@ -62,7 +62,7 @@ Ref 'refs/heads/try-remove-secrets' was rewritten
 
 vscode extentions의 git graph로 해당 내역을 확인한 결과
 
-![img](https://imgur.com/DTNvwfY)
+![img](https://i.imgur.com/uzdgP2a.png)
 
 처럼 아예 뿌리가 달라진다.
 
